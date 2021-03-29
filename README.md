@@ -11,4 +11,4 @@
 
 ## 🙄 미리보기
 
-- ![image](https://user-images.githubusercontent.com/22428471/112832687-a32a7c80-90d0-11eb-9b6f-954d7449867e.png)
+![image](https://user-images.githubusercontent.com/22428471/112832687-a32a7c80-90d0-11eb-9b6f-954d7449867e.png)
